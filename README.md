@@ -60,11 +60,6 @@
 
 <tr>
   <td><b>C2</b></td>
-    <td>By default, set a placeholder image</td>
-</tr>
-
-<tr>
-  <td><b>C3</b></td>
   <td>This is the date format to take into account depending on the <b>article.creationDate</b> : 
       <ul>
         <li>Less than 1 hour : Xmin ago</li>
@@ -76,6 +71,12 @@
       </ul>
    </td>
 </tr>
+
+<tr>
+  <td><b>C3</b></td>
+    <td>By default, set a placeholder image</td>
+</tr>
+
 </table>
 
 ## Data source
