@@ -3,8 +3,8 @@
 |	Information                | Description                                          |
 |----------------------------|------------------------------------------------------|
 | **Title**                  | As an user, I want to see the sightseeing articles 	|
-| **Trello cards associated**| [N°2](https://google.fr)                             |
-| **Developers**  | Aymen Rebouh                                       	            |
+| **Trello cards associated**| <a href="#">N°22</a>                                 |
+| **Developers**  | Aymen Rebouh                                      	            |
 
 ## Design
 
