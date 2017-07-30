@@ -1,20 +1,20 @@
 # US 22 - Sightseeing Articles iOS
 
-|         	      |  	                                                  |
-|-----------------|----------------------------------------------------	|
-| **Title**       | As an user, I want to see the sightseeing articles 	|
-| **Trello cards**| [N°2](https://google.fr)                              	            |
-| **Developers**  | Aymen Rebouh                                       	|
+|	Information                | Description                                          |
+|----------------------------|------------------------------------------------------|
+| **Title**                  | As an user, I want to see the sightseeing articles 	|
+| **Trello cards associated**| [N°2](https://google.fr)                             |
+| **Developers**  | Aymen Rebouh                                       	            |
 
 ## Design
 
 <img src="ExampleNavigationRules.png" width=320/> <img src="ExampleInterfaceRules.png" width=320/>
 
 ### iPhone
-<a href="#">Sketch Sightseeing Articles Screen iPhone</a>
+<a href="#">Sketch Sightseeing Articles iPhone</a>
 
 ### iPad
-<a href="#">Sketch Sightseeing Articles Screen iPad</a>
+<a href="#">Sketch Sightseeing Articles iPad</a>
 
 ## Interactions rules
 
