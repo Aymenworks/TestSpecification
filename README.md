@@ -31,7 +31,7 @@
 
 <tr>
   <td><b>I2</b></td>
-  <td>On click on the author label/pictures, redirect the user to <a href="#">US 01</a></td>
+  <td>On click on the author label/pictures, redirect the user to <a href="#">US 41</a></td>
 </tr>
 
 <tr>
