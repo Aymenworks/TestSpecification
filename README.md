@@ -43,6 +43,7 @@
   <td><b>I4</b></td>
   <td>On tap, present the picker <a href="#">US 21</a> to the user</td>
 </tr>
+</table>
 
 ## Core rules
 
