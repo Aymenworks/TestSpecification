@@ -82,7 +82,7 @@
 
 ### In
 
-The final URL will be the **base url** indicated somewhere else **+** the service 
+The final URL will be the **base url** indicated <a href="#">there</a> **+** the **service name**
 
 For example : `https://odigo.api.production/topArticlesOfTheDay`
 
