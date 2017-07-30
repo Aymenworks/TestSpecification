@@ -94,7 +94,7 @@ For example : `https://odigo.api.production/topArticlesOfTheDay`
 
 ### Out
 
-| Feature                       | JSON                                        |
-|-------------------------------|---------------------------------------------|
-| **Top 5 articles of the day** | [Top5Articles](https://link.to.jsonFile.com |
-| **Last 20 articles**          | [LastArticles](https://link.to.jsonFile.com |
+| Feature                       | JSON                                            |
+|-------------------------------|-------------------------------------------------|
+| **Top 5 articles of the day** | [Example of JSON](https://link.to.jsonFile.com) |
+| **Last 20 articles**          | [Example of JSON](https://link.to.jsonFile.com) |
